@@ -191,7 +191,7 @@ git push origin feature/new-feature
 Thailand Shopping Service for Myanmar
 
 Facebook:
-https://www.facebook.com/people/BKK-Basket-MM/61590360728926/
+https://www.facebook.com/people/BKK-Basket-MM
 
 Website:
 https://bkk-basket-mm.netlify.app
