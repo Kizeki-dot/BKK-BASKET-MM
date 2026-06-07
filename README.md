@@ -1,4 +1,4 @@
-# 🛒 BKK Basket MM
+ # 🛒 BKK Basket MM
 
 A modern landing page for **BKK Basket MM**, a Thailand-to-Myanmar shopping and cargo service.
 
@@ -91,7 +91,7 @@ bkk-basket-mm/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bkk-basket-mm.git
+git clone https://github.com/kizeki-dot/bkk-basket-mm.git
 ```
 
 ### Open Project
